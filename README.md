@@ -5,7 +5,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
  we learned a about how to get familier with basic git commands,
 how to create repositories and clone it to local machine, and update on local version, commit it and push it to main branch  
 ---
-- ## Code 102 - Intro to Software Development
-+ ## Code 201 - Foundations of Software Development
-* ## Code 301 - Intermediate Software Development
-- ## Code 401 - Advanced Software Development
+-  Code 102 - Intro to Software Development
++  Code 201 - Foundations of Software Development
+*  Code 301 - Intermediate Software Development
+-  Code 401 - Advanced Software Development
