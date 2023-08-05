@@ -141,6 +141,11 @@ _ Wildcards: Introduces wildcard characters (*, ?, []) used in file matching.
 
 _ Process Management: Describes process management using commands like kill, ps, CTRL + C, CTRL + Z, jobs, and fg.
 
+---
+
+
+# Table Of Contents:
+- [The Growth Mindset](grouthMind.md)
 
 
 
