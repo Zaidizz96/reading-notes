@@ -8,6 +8,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | topics       | Link                                   |
 |--------------|----------------------------------------|
 | The Growth Mindset|[The Growth Mindset](grouthMind.md)|
+| Data structure|[Data-structure and algorithims](data-tructure-algorithims.md)|
 | SQL|[sql-pratice](sql-practicing.md)|
 | class 1|[reading-class 01](reading-class01.md)|
 | class 2|[reading-class 02](reading-class02.md)|
