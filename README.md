@@ -15,7 +15,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 |class 3                                        |  [reading-class 03](reading-class03md)                        |
 |class 4                                        |  [reading-class 04](reading-class04.md)                       |
 |class 5                                        |  [reading-class 05](reading-class05.md)                       |
-|class 6                                        |  [reading-class 06](reading-class(Stack and Queue).md)        |
+|class 6                                        |  [reading-class 06](reading-class(Stack%20and%20Queue).md)    |
 |Engineering Readings                           |  [Engineering Readings](engineering-reading.md)               |
 
 
