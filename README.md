@@ -5,16 +5,17 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 ---
 
 
-| Topics                                        |                             Link                              |
-| --------------------------------------------- |---------------------------------------------------------------|
-|The Growth Mindset                             |  [The Growth Mindset](grouthMindmd)                           |
-|Data structure                                 |  [Data-structure and algorithims](data-tructure-algorithimsmd)|
-|SQL                                            |  [sql-pratice](sql-practicingmd)                              |
-|class 1                                        |  [reading-class 01](reading-class01md)                        |
-|class 2                                        |  [reading-class 02](reading-class02md)                        |
-|class 3                                        |  [reading-class 03](reading-class03md)                        |
-|class 4                                        |  [reading-class 04](reading-class04.md)                       |
-|class 5                                        |  [reading-class 05](reading-class05.md)                       |
-|Engineering Readings                           |  [Engineering Readings](engineering-reading.md)               |
+| Topics                                        |                             Link                               |
+| --------------------------------------------- |--------------------------------------------------------------- |
+|The Growth Mindset                             |  [The Growth Mindset](grouthMind.md)                           |
+|Data structure                                 |  [Data-structure and algorithims](data-tructure-algorithims.md)|
+|SQL                                            |  [sql-pratice](sql-practicing.md)                              |
+|class 1                                        |  [reading-class 01](reading-class01.md)                        |
+|class 2                                        |  [reading-class 02](reading-class02.md)                        |
+|class 3                                        |  [reading-class 03](reading-class03.md)                        |
+|class 4                                        |  [reading-class 04](reading-class04.md)                        |
+|class 5                                        |  [reading-class 05](reading-class05.md)                        |
+|class 6                                        |  [reading-class 06](reading-class(Stacks%20and%20Queues).md)   |
+|Engineering Readings                           |  [Engineering Readings](engineering-reading.md)                |
 
 
