@@ -23,6 +23,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | class 12             | [reading-class 12](reading-class12.md)                        |
 | class 13             | [reading-class 13](reading-class13.md)                        |
 | class 14             | [reading-class 14](reading-class14.md)                        |
+| Tress Data Structure | [reading-tree](reading-trees.md)                              |
 | Engineering Readings | [Engineering Readings](engineering-reading.md)                |
 
 
