@@ -28,6 +28,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | 0-Auth                        | [reading-class 17](reading-class17.md)                        |
 | Many To Many relation in java | [reading-class 18](reading-class18.md)                        |
 | Functional Programming        | [reading-class 19](reading-class19.md)                        |
+| Android Fundamental           | [reading-class 26](reading-class26.md)                        |
 | Engineering Readings          | [Engineering Readings](engineering-reading.md)                |
 
 
