@@ -30,6 +30,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | Functional Programming        | [reading-class 19](reading-class19.md)                        |
 | Android Fundamental           | [reading-class 26](reading-class26.md)                        |
 | Android Development           | [reading-class 27](reading-class27.md)                        |
+| Recycler View                 | [reading-class 28](reading-class28.md)                        |
 | Engineering Readings          | [Engineering Readings](engineering-reading.md)                |
 
 
