@@ -33,6 +33,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | Recycler View                 | [reading-class 28](reading-class28.md)                        |
 | Room Database and DAO         | [reading-class 29](reading-class29.md)                        |
 | Hash Tables                   | [reading-class hash-table](reading-hash-tables.md)            |
+| AWS and AWS amplify           | [reading-class 31](reading-class31.md)                        |
 | Engineering Readings          | [Engineering Readings](engineering-reading.md)                |
 
 
