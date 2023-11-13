@@ -36,6 +36,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | AWS and AWS amplify                   | [reading-class 31](reading-class31.md)                        |
 | Serverless, RESTful APIs, and GraphQL | [reading-class 32](reading-class32.md)                        |
 | Asynchronous Actions                  | [reading-class 33](reading-class33.md)                        |
+| Google Play Store App Release         | [reading-class 34](reading-class34.md)                        |
 | Engineering Readings                  | [Engineering Readings](engineering-reading.md)                |
 
 
