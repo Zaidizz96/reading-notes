@@ -38,6 +38,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | Asynchronous Actions                  | [reading-class 33](reading-class33.md)                        |
 | Google Play Store App Release         | [reading-class 34](reading-class34.md)                        |
 | Amplify and Cotingo                   | [reading-class 36](reading-class36.md)                        |
+| amazon S3                             | [reading-class 37](reading-class37.md)                        |
 | Engineering Readings                  | [Engineering Readings](engineering-reading.md)                |
 
 
