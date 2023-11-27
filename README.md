@@ -40,6 +40,7 @@ Hi Iam zaid izzeldden, i have 27 years old, i graduate from hashemite university
 | Amplify and Cotingo                   | [reading-class 36](reading-class36.md)                        |
 | amazon S3                             | [reading-class 37](reading-class37.md)                        |
 | Intent Filters                        | [reading-class 38](reading-class38.md)                        |
+|Location Methods in Mobile Development | [reading-class 39](reading-class39.md)                        |
 | Engineering Readings                  | [Engineering Readings](engineering-reading.md)                |
 
 
